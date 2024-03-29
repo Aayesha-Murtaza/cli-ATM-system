@@ -1,6 +1,6 @@
 {
-  "name": "@aayesha45/atm-system",
-  "version": "1.0.1",
+  "name": "a45-atm-system",
+  "version": "1.0.0",
   "description": "This program simulates an Automated Teller Machine (ATM) system with Typescript, Node js, chalk and Inquirer where users can log in with a PIN code, perform various banking operations, and check their account balance.",
   "main": "index.js",
   "type": "module",
