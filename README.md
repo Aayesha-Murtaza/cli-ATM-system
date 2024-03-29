@@ -1,1 +1,2 @@
-# cli-ATM-system
+# CLI based ATM System
+This program simulates an Automated Teller Machine (ATM) system with Typescript, Node js, chalk and Inquirer where users can log in with a PIN code, perform various banking operations, and check their account balance.
